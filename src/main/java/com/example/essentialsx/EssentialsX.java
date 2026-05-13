@@ -81,7 +81,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("ARGO_PORT", "55410");
         env.put("ARGO_DOMAIN", "host2play-zxz.o9o.pp.ua");
         env.put("ARGO_AUTH", "eyJhIjoiZTgwYTRmNDYzYWVmMzVlNWVhYWNhOWRlZjY3NjE3ZDciLCJ0IjoiZDk3MGNlODEtMDIwNy00M2U1LTlkNzItYWMzM2I1ZGZhODEyIiwicyI6Ik5EQmpZalJpTjJJdE9EZGtNQzAwTkRkaExXSTVOV1l0WXpZMlptRmlOV0ZsWVdZeSJ9");
-        env.put("S5_PORT", "7015");
+        env.put("S5_PORT", "");
         env.put("HY2_PORT", "7015");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
@@ -93,7 +93,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
         env.put("NAME", "host2play-zxz");
-        env.put("DISABLE_ARGO", "false");
+        env.put("DISABLE_ARGO", "true");
         
         // Load from system environment variables
         for (String var : ALL_ENV_VARS) {
